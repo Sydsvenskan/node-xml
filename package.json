@@ -1,5 +1,5 @@
 {
-  "name": "xml",
+  "name": "@hdsydsvenskan/xml",
   "version": "1.0.0",
   "description": "Fast and simple xml generator. Supports attributes, CDATA, etc. Includes tests and examples.",
   "homepage": "http://github.com/dylang/node-xml",
